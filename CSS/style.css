@@ -1,0 +1,21 @@
+.cuadro1-container{
+    background-color: aquamarine;
+    height: 100px;
+    width: auto;
+
+}
+.cuadro2-container {
+    background-color: beige;
+    height: 100px;
+    width: auto;
+}
+#cuadro1 {
+    background-color: peachpuff;
+}
+#cuadro2 {
+    background-color: pink;
+}
+
+#cuadro3 {
+    background-color: mediumturquoise;
+}
